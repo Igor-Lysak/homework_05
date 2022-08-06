@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-box {
+    background-color: green;
+    background-image: url(./imagess/grass.png), url(./imagess/ioshik.webp), url(./imagess/lamp.png), url(./imagess/ponchyk.png), url(./imagess/pole.jpg);
+    background-repeat: repeat-x, repeat-y, repeat-x, repeat-y, no-repeat;
+    background-position: bottom, left, top, right, center;
+    background-size: 400px, 40px, 40px, 40px, 500px;
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+
+
